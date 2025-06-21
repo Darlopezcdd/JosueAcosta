@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DatosMaestros_API.props" />
+</Project>

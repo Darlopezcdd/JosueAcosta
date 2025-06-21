@@ -1,0 +1,229 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SistemaGestion_MVC
+build_property.RootNamespace = SistemaGestion_MVC
+build_property.ProjectDir = C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGestion_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGestion_MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/AlertaMantenimiento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRhTWFudGVuaW1pZW50b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/AlertaMantenimiento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRhTWFudGVuaW1pZW50b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/AlertaMantenimiento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRhTWFudGVuaW1pZW50b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/AlertaMantenimiento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRhTWFudGVuaW1pZW50b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/AlertaMantenimiento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRhTWFudGVuaW1pZW50b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Camiones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtaW9uZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Camiones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtaW9uZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Camiones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtaW9uZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Camiones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtaW9uZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Camiones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtaW9uZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Conductores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZHVjdG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Conductores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZHVjdG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Conductores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZHVjdG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Conductores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZHVjdG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Conductores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZHVjdG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Home/IndexPrincipal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFByaW5jaXBhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Logins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Logins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Logins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Logins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Logins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/MantenimientosProgramados/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b3NQcm9ncmFtYWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/MantenimientosProgramados/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b3NQcm9ncmFtYWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/MantenimientosProgramados/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b3NQcm9ncmFtYWRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/MantenimientosProgramados/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b3NQcm9ncmFtYWRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/MantenimientosProgramados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b3NQcm9ncmFtYWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Sensores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vuc29yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Sensores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vuc29yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Sensores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vuc29yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Sensores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vuc29yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Sensores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vuc29yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Talleres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFsbGVyZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Talleres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFsbGVyZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Talleres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFsbGVyZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Talleres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFsbGVyZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Talleres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFsbGVyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lopez/OneDrive/Escritorio/H_Prueba2_Proyecto_SistemaGestion/SistemaGestion_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sqd2rm4m6e

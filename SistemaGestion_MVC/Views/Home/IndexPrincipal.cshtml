@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Bienvenida";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/PaginaInicio.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container mt-5 text-center">
+        <h1>¡Sistema de gestion de flotas!</h1>
+        <p>Nos alegra tenerte aquí. Explora nuestras secciones para obtener más información.</p>
+        <a href="@Url.Action("Create", "Login")" class="btn btn-primary">Inicia Sesión Aquí</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "SistemaGestion_MVC\\SistemaGestion_MVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LogSensores_API\\LogSensores_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DatosMaestros_API\\DatosMaestros_API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

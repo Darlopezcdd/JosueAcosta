@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LogSensores_API.props" />
+</Project>

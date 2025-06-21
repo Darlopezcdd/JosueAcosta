@@ -1,0 +1,11 @@
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\bin\Debug\net8.0\LogSensores_Modelos.deps.json
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\bin\Debug\net8.0\LogSensores_Modelos.dll
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\bin\Debug\net8.0\LogSensores_Modelos.pdb
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\LogSensores_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\LogSensores_Modelos.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\LogSensores_Modelos.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\LogSensores_Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\LogSensores_Modelos.dll
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\refint\LogSensores_Modelos.dll
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\LogSensores_Modelos.pdb
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\LogSensores_Modelos\obj\Debug\net8.0\ref\LogSensores_Modelos.dll

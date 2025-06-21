@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aRk5BsxFVj/LHdTPfGg0N5la5DRYNuqpdGjhuXKhx6s=",
+  "Source": "LogSensores_API",
+  "BasePath": "_content/LogSensores_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
