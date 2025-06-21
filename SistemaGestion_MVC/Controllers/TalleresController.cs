@@ -1,81 +1,105 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DatosMaestros_Modelos;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SistemaG_API_Consumer;
 
 namespace SistemaGestion_MVC.Controllers
 {
     public class TalleresController : Controller
     {
-        // GET: TalleresController
         public ActionResult Index()
         {
-            return View();
+            var data = Crud<Taller>.GetAll();
+            return View(data);
         }
 
-        // GET: TalleresController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var data = Crud<Taller>.GetById(id);
+            if (data == null)
+            {
+                return NotFound();
+            }
+            return View(data);
         }
 
-        // GET: TalleresController/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: TalleresController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Taller taller)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    Crud<Taller>.Create(taller);
+                    return RedirectToAction(nameof(Index));
+                }
+                return View(taller);
             }
-            catch
+            catch (Exception ex)
             {
-                return View();
+                ModelState.AddModelError("", ex.Message);
+                return View(taller);
             }
         }
 
-        // GET: TalleresController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var data = Crud<Taller>.GetById(id);
+            if (data == null)
+            {
+                return NotFound();
+            }
+            return View(data);
         }
 
-        // POST: TalleresController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, Taller taller)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    Crud<Taller>.Update(id, taller);
+                    return RedirectToAction(nameof(Index));
+                }
+                return View(taller);
             }
-            catch
+            catch (Exception ex)
             {
-                return View();
+                ModelState.AddModelError("", ex.Message);
+                return View(taller);
             }
         }
 
-        // GET: TalleresController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            var data = Crud<Taller>.GetById(id);
+            if (data == null)
+            {
+                return NotFound();
+            }
+            return View(data);
         }
 
-        // POST: TalleresController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
         {
             try
             {
+                Crud<Taller>.Delete(id);
                 return RedirectToAction(nameof(Index));
             }
-            catch
+            catch (Exception ex)
             {
+                ModelState.AddModelError("", ex.Message);
                 return View();
             }
         }

@@ -570,3 +570,4 @@ C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGest
 C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGestion_MVC\bin\Debug\net8.0\LogSensores_Modelos.dll
 C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGestion_MVC\bin\Debug\net8.0\LogSensores_Modelos.pdb
 C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGestion_MVC\bin\Debug\net8.0\LogSensores_API.pdb
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaGestion_MVC\obj\Debug\net8.0\SistemaGestion_MVC.sourcelink.json

@@ -51,3 +51,4 @@ C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaG_AP
 C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaG_API_Consumer\bin\Debug\net8.0\LogSensores_Modelos.dll
 C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaG_API_Consumer\bin\Debug\net8.0\LogSensores_API.pdb
 C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaG_API_Consumer\bin\Debug\net8.0\LogSensores_Modelos.pdb
+C:\Users\lopez\OneDrive\Escritorio\H_Prueba2_Proyecto_SistemaGestion\SistemaG_API_Consumer\obj\Debug\net8.0\SistemaG_API_Consumer.sourcelink.json

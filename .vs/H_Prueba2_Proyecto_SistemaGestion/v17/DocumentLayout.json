@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\sistemagestion_mvc\\controllers\\tallerescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|solutionrelative:sistemagestion_mvc\\controllers\\tallerescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAAB30C-2B17-4018-BBD1-F40BEB142E9D}|DatosMaestros_Modelos\\DatosMaestros_Modelos.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\datosmaestros_modelos\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAAB30C-2B17-4018-BBD1-F40BEB142E9D}|DatosMaestros_Modelos\\DatosMaestros_Modelos.csproj|solutionrelative:datosmaestros_modelos\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\sistemagestion_mvc\\controllers\\camionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|solutionrelative:sistemagestion_mvc\\controllers\\camionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\sistemagestion_mvc\\views\\talleres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|solutionrelative:sistemagestion_mvc\\views\\talleres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\sistemagestion_mvc\\views\\talleres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|solutionrelative:sistemagestion_mvc\\views\\talleres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\sistemagestion_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3283074F-60CE-49BF-890C-29E73271CA8A}|SistemaGestion_MVC\\SistemaGestion_MVC.csproj|solutionrelative:sistemagestion_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -59,8 +79,8 @@
       "RelativeMoniker": "D:0:0:{4A331EBC-891F-457C-9AF6-7657FB42F2D8}|LogSensores_API\\LogSensores_API.csproj|solutionrelative:logsensores_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\Migrations\\20250621040141_v02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogSensores_API\\Migrations\\20250621040141_v02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A331EBC-891F-457C-9AF6-7657FB42F2D8}|LogSensores_API\\LogSensores_API.csproj|c:\\users\\lopez\\onedrive\\escritorio\\h_prueba2_proyecto_sistemagestion\\logsensores_api\\migrations\\20250621040141_v02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A331EBC-891F-457C-9AF6-7657FB42F2D8}|LogSensores_API\\LogSensores_API.csproj|solutionrelative:logsensores_api\\migrations\\20250621040141_v02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +122,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\DatosMaestros_Modelos\\Taller.cs",
+              "RelativeDocumentMoniker": "DatosMaestros_Modelos\\Taller.cs",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\DatosMaestros_Modelos\\Taller.cs",
+              "RelativeToolTip": "DatosMaestros_Modelos\\Taller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:41:47.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CamionesController.cs",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Controllers\\CamionesController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion_MVC\\Controllers\\CamionesController.cs",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Controllers\\CamionesController.cs",
+              "RelativeToolTip": "SistemaGestion_MVC\\Controllers\\CamionesController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowHkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:41:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TalleresController.cs",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Controllers\\TalleresController.cs",
+              "RelativeDocumentMoniker": "SistemaGestion_MVC\\Controllers\\TalleresController.cs",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Controllers\\TalleresController.cs",
+              "RelativeToolTip": "SistemaGestion_MVC\\Controllers\\TalleresController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:40:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\Talleres\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion_MVC\\Views\\Talleres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\Talleres\\Index.cshtml",
+              "RelativeToolTip": "SistemaGestion_MVC\\Views\\Talleres\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T04:40:29.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\Talleres\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestion_MVC\\Views\\Talleres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\Talleres\\Create.cshtml",
+              "RelativeToolTip": "SistemaGestion_MVC\\Views\\Talleres\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T04:40:24.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Views\\Shared\\_Layout.cshtml",
@@ -115,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Index.cshtml",
@@ -123,12 +208,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-21T04:20:13.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:20:13.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Edit.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Edit.cshtml",
@@ -136,12 +220,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-21T04:20:12.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:20:12.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Create.cshtml",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Create.cshtml",
@@ -149,12 +232,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\Views\\AlertaMantenimiento\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-21T04:20:05.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:20:05.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AlertaMantenimientoController.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Controllers\\AlertaMantenimientoController.cs",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Controllers\\AlertaMantenimientoController.cs",
@@ -162,12 +244,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\Controllers\\AlertaMantenimientoController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:19:44.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:19:44.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "SensoresController.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\Controllers\\SensoresController.cs",
               "RelativeDocumentMoniker": "LogSensores_API\\Controllers\\SensoresController.cs",
@@ -175,12 +256,11 @@
               "RelativeToolTip": "LogSensores_API\\Controllers\\SensoresController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:17:22.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:17:22.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LogSensores_API\\Controllers\\WeatherForecastController.cs",
@@ -188,12 +268,11 @@
               "RelativeToolTip": "LogSensores_API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:17:20.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:17:20.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\appsettings.json",
@@ -201,12 +280,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T04:16:59.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:16:59.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "SensoresController.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Controllers\\SensoresController.cs",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Controllers\\SensoresController.cs",
@@ -214,12 +292,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\Controllers\\SensoresController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:15:39.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:15:39.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Sensor.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_Modelos\\Sensor.cs",
               "RelativeDocumentMoniker": "LogSensores_Modelos\\Sensor.cs",
@@ -227,12 +304,11 @@
               "RelativeToolTip": "LogSensores_Modelos\\Sensor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:15:31.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:15:31.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\SistemaGestion_MVC\\Program.cs",
               "RelativeDocumentMoniker": "SistemaGestion_MVC\\Program.cs",
@@ -240,12 +316,11 @@
               "RelativeToolTip": "SistemaGestion_MVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:14:27.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:14:27.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "20250621040141_v02.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\Migrations\\20250621040141_v02.cs",
               "RelativeDocumentMoniker": "LogSensores_API\\Migrations\\20250621040141_v02.cs",
@@ -253,12 +328,11 @@
               "RelativeToolTip": "LogSensores_API\\Migrations\\20250621040141_v02.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:01:41.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:01:41.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\Program.cs",
               "RelativeDocumentMoniker": "LogSensores_API\\Program.cs",
@@ -266,12 +340,11 @@
               "RelativeToolTip": "LogSensores_API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T03:55:40.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T03:55:40.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\appsettings.json",
               "RelativeDocumentMoniker": "LogSensores_API\\appsettings.json",
@@ -279,12 +352,11 @@
               "RelativeToolTip": "LogSensores_API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T03:55:21.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T03:55:21.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AppDbSensoresContext.cs",
               "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Escritorio\\H_Prueba2_Proyecto_SistemaGestion\\LogSensores_API\\Data\\AppDbSensoresContext.cs",
               "RelativeDocumentMoniker": "LogSensores_API\\Data\\AppDbSensoresContext.cs",
@@ -292,8 +364,7 @@
               "RelativeToolTip": "LogSensores_API\\Data\\AppDbSensoresContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T03:54:46.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T03:54:46.09Z"
             }
           ]
         }
